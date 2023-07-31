@@ -45,7 +45,7 @@ The data sources for the data used are linked [here](https://github.com/muchaima
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](https://github.com/muchaimaryanne/store-sales-time-series-forecasting/blob/main/store-sales-time-series-forecasting.ipynb) within this repo.
+2. Raw Data is being kept [here](https://github.com/muchaimaryanne/store-sales-time-series-forecasting/blob/main/store-sales-time-series-forecasting.zip) within this repo.
   
 3. Data processing/transformation scripts are being kept [here](https://github.com/muchaimaryanne/store-sales-time-series-forecasting.git)
 4. etc...  
